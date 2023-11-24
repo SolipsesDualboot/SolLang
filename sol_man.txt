@@ -1,0 +1,7 @@
+/ - Comment
+WORK DAMNIT - Handle variable type errors and basic errors
+    ex.
+        integer ten = 20 WORK DAMNIT
+REVEAL - print statement
+    ex.
+        REVEAL ten
